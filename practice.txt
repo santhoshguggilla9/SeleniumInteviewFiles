@@ -1,0 +1,9 @@
+1. first, go to project -> r.click -> new -> package -> give the package name as "pagefactory
+
+2. r.click on pagefactory package -> click on new -> click on class - give class name as PageFactoryDemo
+
+//copy the code
+
+3. right click on testCases package -> click on new -> click on class -> give name as "Login_PageFactory"
+
+//copy the given code
